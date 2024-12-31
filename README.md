@@ -30,7 +30,7 @@ To utilize these configuration files in your project:
 Contributions are welcome! If you have configuration files that could benefit others, please fork the repository, add your configurations, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 This `README.md` provides an overview of the repository, instructions on how to use the configuration files, and guidelines for contributing. Adjust the content as necessary to better fit the specifics of your repository.
 
